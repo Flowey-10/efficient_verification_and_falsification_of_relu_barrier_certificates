@@ -1,0 +1,8 @@
+drake==1.39.0
+dreal==4.21.6.2
+gilp==2.1.0
+intvalpy==1.6.5
+matplotlib==3.10.7
+numpy==2.3.4
+scipy==1.16.3
+torch==1.11.0
